@@ -1,0 +1,4 @@
+*.py[oc]
+
+esp8266/venv
+simulator/node_modules

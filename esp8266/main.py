@@ -1,0 +1,3 @@
+import wordclock
+
+wordclock.begin()

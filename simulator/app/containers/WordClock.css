@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  -webkit-user-select: none;
+  cursor: default;
+}
+
+.row {
+  height: 9%;
+}
