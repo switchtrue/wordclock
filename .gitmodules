@@ -1,0 +1,6 @@
+[submodule "esp8266/micropython-lib"]
+	path = esp8266/micropython-lib
+	url = https://github.com/micropython/micropython-lib.git
+[submodule "esp8266/micropython"]
+	path = esp8266/micropython
+	url = https://github.com/micropython/micropython.git
